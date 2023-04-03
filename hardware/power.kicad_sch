@@ -719,7 +719,7 @@
     (uuid fdb5c2bd-1792-4732-97f5-39c27ca0801c)
   )
 
-  (text "INPUT: 9V/30V" (at 90.17 80.01 0)
+  (text "INPUT: 9V/30V" (at 90.17 91.44 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 31a60d23-bb86-4f7f-bcb6-369ebb91b34a)
   )

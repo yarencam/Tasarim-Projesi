@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Damlama")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Damlama.pretty")(options "")(descr ""))
+)
