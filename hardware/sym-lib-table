@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Damlama")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/Damlama.kicad_sym")(options "")(descr ""))
+)
