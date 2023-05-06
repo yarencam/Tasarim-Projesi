@@ -270,7 +270,7 @@
   )
 
   (symbol (lib_id "Damlama:SIM800L-CORE") (at 147.955 88.265 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea358e14-544e-4408-b2af-451527eab26e)
     (property "Reference" "U3" (at 148.59 76.2 0)
       (effects (font (size 1.27 1.27)))
